@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity"
+    android:id="@+id/lemenu">
+
+    <item
+        android:id="@+id/retour" android:icon="@drawable/castle_house"
+        app:showAsAction="always|withText" android:title="Accueil"/>
+    <item
+        android:id="@+id/donjon" android:icon="@drawable/dungeon"
+        app:showAsAction="always" android:title="Donjons"/>
+<item
+    android:id="@+id/profil" android:icon="@drawable/rpg"
+    app:showAsAction="always" android:title="Profil"/>
+
+    <item
+        android:id="@+id/parametre"
+        android:icon="@drawable/quest"
+        app:showAsAction="always"
+        android:title="Paramètre">
+    </item>
+
+
+</menu>

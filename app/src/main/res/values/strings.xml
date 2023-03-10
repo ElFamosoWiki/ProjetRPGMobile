@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">PROJET PROG MOBILE</string>
+    <string name="app_name">DonjonxH</string>
+    <string name="lep">prenom</string>
+    <string name="len">nom</string>
+    <string name="lemdp">mot de passe</string>
+    <string name="lemail">Email</string>
+    <string name="subscribe">Inscription</string>
+    <string name="login">Connexion</string>
 </resources>
